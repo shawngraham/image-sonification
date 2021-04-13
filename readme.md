@@ -1,5 +1,7 @@
 ## Readme
 
+[![DOI](https://zenodo.org/badge/357629564.svg)](https://zenodo.org/badge/latestdoi/357629564)
+
 Supporting scripts for Graham, S., and Simons, J. 'Listening to Dura Europos: An Experiment in Archaeological Image Sonification'
 
 To run the sonifyImage.py script, download the JythonMusic environment from https://jythonmusic.me/download/. Change line 44 to the filename of the image you wish to sonify. Run the script. The resulting .mid file can be opened with Garageband or similar music editing program for instrumentation and transformation into an mp3 file.
